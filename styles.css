@@ -1,0 +1,17 @@
+.carouselImage
+{
+    height: 500px;
+    width: 1200px;
+    object-fit: cover;
+}
+
+.cardImage
+{
+    height: 300px;
+    width: 200px;
+    object-fit: cover;
+}
+body
+{
+    background-color: #9994a6;
+}
